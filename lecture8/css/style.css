@@ -12,8 +12,12 @@
   color: black;
   justify-content: space-between;
 }
+.card_input_block {
+  position: relative;
+}
 .card_input_icon {
   position: absolute;
-  top: 285px;
-  right: 500px;
+  top: 40px;
+  right: 10px;
+  z-index: 100;
 }
